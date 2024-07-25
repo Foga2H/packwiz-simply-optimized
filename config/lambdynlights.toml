@@ -70,8 +70,14 @@ mode = "fancy"
 				enderman = true
 
 			[light_sources.settings.entities.naturalist]
+				robin = true
 				bass = true
+				snail = true
 				firefly = true
+				butterfly = true
+				duck = true
+				snake = true
+				sparrow = true
 
 			[light_sources.settings.entities.doapi]
 				chair = true

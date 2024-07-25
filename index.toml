@@ -29,6 +29,10 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
+file = "config/authme.json5"
+hash = "f8fb1898e59a69e6c0494afd877b52e3fb9d2c33746d9afb436c9e7beded156f"
+
+[[files]]
 file = "config/badoptimizations.txt"
 hash = "33b8fcb0052af1b72aac498f5ca5929eef63ed190a03c16829e3faa91bf37fdd"
 
@@ -39,6 +43,18 @@ hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
 [[files]]
 file = "config/c2me.toml"
 hash = "6ba54cbec5509177d7c886c1b57a5c89d26e0f39a676fcc988d968ba716c5f95"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/carryon-client.json"
+hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
+
+[[files]]
+file = "config/carryon-common.json"
+hash = "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e"
 
 [[files]]
 file = "config/create-client.toml"
@@ -78,7 +94,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "bbd4b5b558a6b53af1928f65716d0b564f95dbe539e13b0b84e3650ee1c4a5b5"
+hash = "08acab83e822ed723b83b415c83f6f928f16e8886d3ca7db786fce7284a24551"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -105,16 +121,24 @@ file = "config/forgeconfigapiport.toml"
 hash = "ac070ed460bf105be08b98392544e52093232aaf2cee8e3db826bb709ed535cd"
 
 [[files]]
+file = "config/forgottengraves.json"
+hash = "7a4fafffdb5e1f2e4506784139009721a96e5e66a8491c09cb4098f5636daa20"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "c2c83de35830c6ade5741596e95024d736a9f83b109c06aa454eefeaefa40ee3"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "06ffc52f90bae33add0cd5cdc6e1524f305d9b97d2a8d8d0258bb0fda6fa6f50"
+hash = "f41a0efbade25afabed3e93ff25bbd9f7be4c26690acf7f4e6918b202bb71a91"
 
 [[files]]
 file = "config/inventorymanagement.toml"
 hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
+
+[[files]]
+file = "config/iris.properties"
+hash = "bf6d681495d37851e3a1640e2c4b717cf1dad564bcd032541eb426d4f8c1a68c"
 
 [[files]]
 file = "config/items_displayed_config.properties"
@@ -146,7 +170,7 @@ hash = "deba7a0b61d88bff289b0ec2de23364a46d9b706dd81deb8aa2448b107f39214"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "2d8d73439b3c9c16f7d20102a09f1fc65c35df46f4864f767ec028ffbbee4a44"
+hash = "f957bf5902c80c7d504bd440307f210fa157668b18b4cdf7778e67e66150c142"
 
 [[files]]
 file = "config/lithium.properties"
@@ -226,11 +250,11 @@ hash = "69c6e40dfc5a32818e8989aaf15be14039a403a9c19218384f0e60c21a41951f"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "07ecba23d675587cf260e293ba23aea8bf4795080e699908fdce75ba10ac7a5a"
+hash = "90d59cba8373c7aa3f38ce529dbc8ad27eff7f91adc710a41e4854cafbf2ff3f"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "3786e3f2783253608cd56143cdb657bf8344fb00fba7827c39a8686da31a0ae4"
+hash = "c0f293dfb48735612c403181e5a1f98e9c8f5ad0429c3d646070c75e42fddeed"
 
 [[files]]
 file = "config/rrp.properties"
@@ -266,7 +290,7 @@ hash = "59c8365727a37136a547de8477385c65b6f6676bbd3f890dc514df0f2b26351f"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "54c83c3a820607f4356e0478fb94be4ec423a9b7cf40fc4c97fa86b26098171d"
+hash = "b094360a362d53f77a179423c89365adceed8a353125163fc3d8f7d79357bb5c"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -298,7 +322,7 @@ hash = "c4e80dcc2c0b02a908f05f95128818412e762134b8490462908dd1dc6b7d4745"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
+hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -333,6 +357,11 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "a9765b6887b4018717455e9caf1411f2afe216bcd127ef57f4577212c164f8b7"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f6da82f771d83d63282ad87dbf4c22f4aa75b5982adf015d3290701bb56d6414"
 metafile = true
@@ -345,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "dfb633f2c8caea628d11741fb1463508fcc228e264a1a76e93cc099f57c4886c"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
 metafile = true
 
 [[files]]
@@ -445,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/forgotten-graves.pw.toml"
+hash = "a15a720b0609e60e6f1cb49b71fc7d2aa412c9bc40228f06628ecbdc2292e24e"
 metafile = true
 
 [[files]]
