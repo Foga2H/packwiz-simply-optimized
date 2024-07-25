@@ -24,6 +24,7 @@ mode = "fancy"
 			[light_sources.settings.entities.minecraft]
 				chicken = true
 				bee = true
+				arrow = true
 				trader_llama = true
 				donkey = true
 				cow = true
@@ -31,8 +32,10 @@ mode = "fancy"
 				tropical_fish = true
 				pig = true
 				slime = true
+				pillager = true
 				skeleton = true
 				llama = true
+				iron_golem = true
 				bat = true
 				rabbit = true
 				cat = true
@@ -44,6 +47,7 @@ mode = "fancy"
 				dolphin = true
 				pufferfish = true
 				item = true
+				potion = true
 				turtle = true
 				wolf = true
 				villager = true
@@ -52,7 +56,9 @@ mode = "fancy"
 				zombie_villager = true
 				boat = true
 				horse = true
+				phantom = true
 				llama_spit = true
+				cave_spider = true
 				glow_squid = true
 				witch = true
 				cod = true
@@ -64,8 +70,16 @@ mode = "fancy"
 				enderman = true
 
 			[light_sources.settings.entities.naturalist]
+				bass = true
 				firefly = true
 
+			[light_sources.settings.entities.doapi]
+				chair = true
+
 			[light_sources.settings.entities.creeperoverhaul]
+				dripstone_creeper = true
 				cave_creeper = true
+
+			[light_sources.settings.entities.exlinefurniture]
+				entity_sit = true
 
