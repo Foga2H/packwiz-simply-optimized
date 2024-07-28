@@ -57,6 +57,10 @@ file = "config/carryon-common.json"
 hash = "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e"
 
 [[files]]
+file = "config/cobblemon/main.json"
+hash = "9d1b1e49079dd7cefccacc75f21d95493d65e155b24e605e2daeeffc8a674519"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "4b319a14585af07e9d8abc09554b46e1eeb8415b64c1f045b4edd5d4eea60d1c"
 
@@ -94,7 +98,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "08acab83e822ed723b83b415c83f6f928f16e8886d3ca7db786fce7284a24551"
+hash = "9d0ebb4a45f76bff73a24803e7292ac72db90897e2a0c2207d2b1616cc21c309"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -125,12 +129,16 @@ file = "config/forgottengraves.json"
 hash = "7a4fafffdb5e1f2e4506784139009721a96e5e66a8491c09cb4098f5636daa20"
 
 [[files]]
+file = "config/graveyard/the-graveyard-3.0-config.json5"
+hash = "d3c4b80ecc098946480ef5186657c671520a2d0592d30ad4b49a4ec2ae40aada"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "c2c83de35830c6ade5741596e95024d736a9f83b109c06aa454eefeaefa40ee3"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "f41a0efbade25afabed3e93ff25bbd9f7be4c26690acf7f4e6918b202bb71a91"
+hash = "ce6dbf31e351029396a7aab16f6dc2494bdb6fdb79591eb626360ff887dff8f5"
 
 [[files]]
 file = "config/inventorymanagement.toml"
@@ -138,7 +146,7 @@ hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bf6d681495d37851e3a1640e2c4b717cf1dad564bcd032541eb426d4f8c1a68c"
+hash = "f0cef8a4f7d41937000e694871d5cc03e9c54d1597a005ddcb339964f3c6635a"
 
 [[files]]
 file = "config/items_displayed_config.properties"
@@ -170,7 +178,7 @@ hash = "deba7a0b61d88bff289b0ec2de23364a46d9b706dd81deb8aa2448b107f39214"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "f957bf5902c80c7d504bd440307f210fa157668b18b4cdf7778e67e66150c142"
+hash = "1bb24d5c21d786bfdca49c7d98332695d3e7eae00a0a3c2f29531d3088ebdbb5"
 
 [[files]]
 file = "config/lithium.properties"
@@ -191,6 +199,14 @@ hash = "af3c3e37d6fac28af6bdf315f591c65393afa6c8e3cd1fa49a13627bfbb25b44"
 [[files]]
 file = "config/moreculling.toml"
 hash = "9fb6a0805ca34611d9e7d54e478ac9b1f1ec83cd131a744b76c94e108ce049a3"
+
+[[files]]
+file = "config/mutantmonsters-common.toml"
+hash = "64e2393805ee3a8c893cbf24cdab23f9c2151de0f55fc8bceb28e42170cbccc4"
+
+[[files]]
+file = "config/mutantmonsters-server.toml"
+hash = "017b3f5f1eeed31f83813f5f4c72880973e0daf91c6b19be705eced8f0653214"
 
 [[files]]
 file = "config/naturalist.json"
@@ -250,11 +266,11 @@ hash = "69c6e40dfc5a32818e8989aaf15be14039a403a9c19218384f0e60c21a41951f"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "90d59cba8373c7aa3f38ce529dbc8ad27eff7f91adc710a41e4854cafbf2ff3f"
+hash = "6b5971191213ed32d050ec86552b8c46c4e877291d7b990c35ec85411a913c95"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "c0f293dfb48735612c403181e5a1f98e9c8f5ad0429c3d646070c75e42fddeed"
+hash = "746d4f8e17d6ef1d0c00d40ee41e0fa98a9660578dca6a156d399f9ff7b01780"
 
 [[files]]
 file = "config/rrp.properties"
@@ -290,7 +306,7 @@ hash = "59c8365727a37136a547de8477385c65b6f6676bbd3f890dc514df0f2b26351f"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "b094360a362d53f77a179423c89365adceed8a353125163fc3d8f7d79357bb5c"
+hash = "584a2f9a36dd2255aaccf48729d6d0ed0e6cce29f60a08e38289afa7469b1d60"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -322,7 +338,7 @@ hash = "c4e80dcc2c0b02a908f05f95128818412e762134b8490462908dd1dc6b7d4745"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "b8ddf54611a9ab8c53177fc0d062321e9e731192b65b9e50d0fcb38a86a91696"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -392,6 +408,11 @@ hash = "105993c79be34c48a43a3d7d127a02e1298a51b1f600a132be8e79f194cd6092"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "c1242b80aea0726aae08e0cfdb220266960d62e41ab4db60403bdbcd854d6a7d"
+metafile = true
+
+[[files]]
 file = "mods/cozy.pw.toml"
 hash = "e53c4378a42a6ea2fd960d10e7267596826d1fa56dbc19800ddfb0c0536bc7a9"
 metafile = true
@@ -420,6 +441,10 @@ metafile = true
 file = "mods/do-api.pw.toml"
 hash = "39b5a8375c756d2ff436829aa67ea45e5447f404e9cb4922095a90cfcffe04ef"
 metafile = true
+
+[[files]]
+file = "mods/dragon-mount-datapack-2.1.jar"
+hash = "d5491b0324366526b79ba7254599c9260d86f1727dc1ee9b54ec358715050693"
 
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
@@ -479,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
@@ -580,6 +610,11 @@ hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "b350cc83e24f5927ff800af0c21f70713aaff9458f1fb70bac4d13c3e670cf09"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
 metafile = true
@@ -606,6 +641,11 @@ hash = "a33b0046144a7d5e96d213759e6fe526d9f9e9c0e1a4ec27083a7ef3cce95933"
 [[files]]
 file = "mods/playdate.pw.toml"
 hash = "afc77bef483c9bb396aa9b5509885fc6572d2250b228509a49070b56b12cfe72"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "14f25fae14eb85a16c17bc8f0b87acbba51fc9f6a3253c8bd153e0e2348cd34b"
 metafile = true
 
 [[files]]
@@ -636,6 +676,11 @@ metafile = true
 [[files]]
 file = "mods/storage-delight-fabric.pw.toml"
 hash = "8aaabdfb393f059848df5e0735822f4fea7eda5d1502a8f18ca9e0cb80b004b0"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "322f5c79d943417a0870aa3ff7de4320929e28ce6dc9048af9dd7cecd3913ae5"
 metafile = true
 
 [[files]]
