@@ -664,6 +664,11 @@ hash = "d0c2d4517803398c317c634478a44df86f3114513f57aac4078f79557f88b9c0"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "03f677ea1247e48ca4a46356af9e10c9d02bc40f7a5151174b1e6de180d7a0cd"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "95d11e450849e0e2b7503cb7fd5d7b687e51d265635fd42b523f3be420908f23"
 metafile = true
