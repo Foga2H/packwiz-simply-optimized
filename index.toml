@@ -467,6 +467,11 @@ hash = "9ed17ce3eb038576e06f34e8638f595e66579d078223e99d9a7a35774ea0d838"
 metafile = true
 
 [[files]]
+file = "mods/default-skill-trees.pw.toml"
+hash = "5030767722d857c89d4d3920d856becb9445bbe24244686066985d03ab0448dd"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "39b5a8375c756d2ff436829aa67ea45e5447f404e9cb4922095a90cfcffe04ef"
 metafile = true
@@ -703,6 +708,16 @@ hash = "afc77bef483c9bb396aa9b5509885fc6572d2250b228509a49070b56b12cfe72"
 metafile = true
 
 [[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "f27e5c31a8c6ac306817c44a86059e794244526dbd55e0ec43435d0c931e6e5e"
+metafile = true
+
+[[files]]
+file = "mods/puffish-skills.pw.toml"
+hash = "df336403c2e1d0a3ffaa2ec44ee144cabe293f0701174074e2c9acd00b8b53a8"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "14f25fae14eb85a16c17bc8f0b87acbba51fc9f6a3253c8bd153e0e2348cd34b"
 metafile = true
@@ -769,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "4208b682ff7512da07a0d9b0d786efd8fc4753fab3100d54bf4ceb1feeb956da"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "dc0deb69a6be45e81aed7237440e0125458e762b2a572b5ea886ecc77e73b7b7"
 metafile = true
 
 [[files]]
