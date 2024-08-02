@@ -708,6 +708,11 @@ hash = "afc77bef483c9bb396aa9b5509885fc6572d2250b228509a49070b56b12cfe72"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
+metafile = true
+
+[[files]]
 file = "mods/puffish-attributes.pw.toml"
 hash = "f27e5c31a8c6ac306817c44a86059e794244526dbd55e0ec43435d0c931e6e5e"
 metafile = true
@@ -743,6 +748,11 @@ hash = "03f677ea1247e48ca4a46356af9e10c9d02bc40f7a5151174b1e6de180d7a0cd"
 metafile = true
 
 [[files]]
+file = "mods/simply-skills.pw.toml"
+hash = "022e26a9779e3e2901c971b83eb4ead860ed361091587710b7b25b11c789bb4f"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "df667f8afdd9fb879dca7346a2042c2e808b76bc13453b21655180ed05f88056"
 metafile = true
@@ -755,6 +765,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "607e46ceb8ff9140a7a928734a10fdce835d1b4fbb0d49226d83f39e60d42e44"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "ce09556fee66e56208264ae8c385852bbdc5bf3a1ddc132dac5bbbf7bf12fa37"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "6955c024252577178298e691d7fe0111c5bd1155e4497df6ed1251bdac9b5b44"
 metafile = true
 
 [[files]]
@@ -779,6 +799,11 @@ hash = "13954c14a9491b07eab6d2b278faed5629d42ac52cc959711959f32270e6edff"
 [[files]]
 file = "mods/towers-of-the-wild-modded.pw.toml"
 hash = "aaf42d9bcffd056c2c3cc12d476687b950b140215b438e96ffe09ab94dbda9d3"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
