@@ -412,11 +412,6 @@ hash = "dfb633f2c8caea628d11741fb1463508fcc228e264a1a76e93cc099f57c4886c"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
-metafile = true
-
-[[files]]
 file = "mods/chirpys-wildlife.pw.toml"
 hash = "068c886863d091b9cb016f137d123556c4559d385ac27e0838cc31d2708b5d4d"
 metafile = true
