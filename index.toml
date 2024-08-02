@@ -432,11 +432,6 @@ hash = "105993c79be34c48a43a3d7d127a02e1298a51b1f600a132be8e79f194cd6092"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "c1242b80aea0726aae08e0cfdb220266960d62e41ab4db60403bdbcd854d6a7d"
-metafile = true
-
-[[files]]
 file = "mods/cozy.pw.toml"
 hash = "e53c4378a42a6ea2fd960d10e7267596826d1fa56dbc19800ddfb0c0536bc7a9"
 metafile = true
@@ -556,11 +551,6 @@ hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
-file = "mods/forgotten-graves.pw.toml"
-hash = "a15a720b0609e60e6f1cb49b71fc7d2aa412c9bc40228f06628ecbdc2292e24e"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "f859015dcf54afafd753bec2f86d151a99ded743935591e8876ac1582d6a9e38"
 metafile = true
@@ -616,11 +606,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-candlelight.pw.toml"
 hash = "a8aaf4ad332d42ea99bb4f9c6e03ae5d1c1fe84a6dcaa97f366e0fd09f1de24b"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "46da76d650af422233ae0a20187b8acb2b1565afa014e22c833c61e5d736b721"
 metafile = true
 
 [[files]]
@@ -785,11 +770,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
-metafile = true
-
-[[files]]
-file = "mods/the-graveyard-fabric.pw.toml"
-hash = "322f5c79d943417a0870aa3ff7de4320929e28ce6dc9048af9dd7cecd3913ae5"
 metafile = true
 
 [[files]]
