@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "df336403c2e1d0a3ffaa2ec44ee144cabe293f0701174074e2c9acd00b8b53a8"
+hash = "f17f46633ebb69e0ce3d471a7986e7bf22a616b84882b684bbdf965efd983efb"
 metafile = true
 
 [[files]]
